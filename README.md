@@ -16,6 +16,9 @@ https://console.cloud.google.com/marketplace/product/bigquery-public-data/theloo
 - 광고를 통해 유입되어 구입한 고객의 리턴량이 가장 많음 → 광고에 포함된 내용이 과장되거나 중요한 내용이 빠져있어 구매확정까지 이어지는데 에러사항이 되는 것은 아닌지 확인할 필요 有
 - 이메일을 통한 유입이 가장 많음 → 신규 가입고객 유인 전략 필요 有
 
+### 시각화
+https://datastudio.google.com/s/kIU_ckJEsdg
+
 ---
 ### 사용 기술
 - Bigquery
