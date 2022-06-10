@@ -3,6 +3,10 @@
 ### 데이터 출처
 https://console.cloud.google.com/marketplace/product/bigquery-public-data/thelook-ecommerce?hl=ko&project=hip-fusion-340315
 
+### 문제 정의
+- 주문까지 이어지는 유저의 수는 계속해서 증가하는 추세를 보이나 신규 유저의 유입 수가 안정적이지 않음
+- 다양한 가설을 설정하고 검정하며 신규 유저 유입 활성화를 위한 전략 수립 필요
+
 ### 가설 검정
 - 광고를 통한 신규고객 유입이 검색의 경우보다 많다. → TRUE
 - 광고를 통해 유입된 고객의 활성화정도는 그렇지 않은 고객에 비해 낮다. → FALSE
