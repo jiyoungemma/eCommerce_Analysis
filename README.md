@@ -8,11 +8,11 @@ https://console.cloud.google.com/marketplace/product/bigquery-public-data/theloo
 - 다양한 가설을 설정하고 검정하며 신규 유저 유입 활성화를 위한 전략 수립 필요
 
 ### 가설 검정
-- 광고를 통한 신규고객 유입이 검색의 경우보다 많다. → TRUE
-- 광고를 통해 유입된 고객의 활성화정도는 그렇지 않은 고객에 비해 낮다. → FALSE
-- 시즌별 구매 특징이 존재한다. → FALSE
-- 리턴이 많은 제품의 특징이 존재한다. → TRUE
-- 국가별 유입경로의 트렌드가 존재한다. → TRUE
+- 광고를 통한 신규고객 유입이 검색의 경우보다 많다. → TRUE (분석쿼리 : https://console.cloud.google.com/bigquery?sq=308467655695:30c0ef149d384b54a4024f70e2bfdf4a)
+- 광고를 통해 유입된 고객의 활성화정도는 그렇지 않은 고객에 비해 낮다. → FALSE (분석쿼리 : https://console.cloud.google.com/bigquery?sq=308467655695:901476fca0db41358b7fcf1c37782810)
+- 시즌별 구매 특징이 존재한다. → FALSE (분석쿼리 : https://console.cloud.google.com/bigquery?sq=308467655695:6865c1c286f6498084151267d85e13f7)
+- 리턴이 많은 제품의 특징이 존재한다. → TRUE (분석쿼리 : https://console.cloud.google.com/bigquery?sq=308467655695:150193db52f04d09bca668c260812e63)
+- 국가별 유입경로의 트렌드가 존재한다. → TRUE (분석쿼리 : https://console.cloud.google.com/bigquery?sq=308467655695:f3006557fad44769a00601c17729c438)
 
 ### 마케팅 전략
 - 유료 검색 엔진을 통한 신규가입고객 유입이 많음 → ***광고 활성화*** 필요 有
